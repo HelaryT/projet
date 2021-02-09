@@ -1,27 +1,90 @@
 {
-    "dab": [
+    "Game": [
       {
         "id": 1,
-        "Nom": "PSG",
-        "adresse": "TOTO 75000 paris"
+        "Nom": "Overwatch"
       },
       {
         "id": 2,
-        "Nom": "Marseille",
-        "adresse": "Vieux port"
+        "Nom": "Call of duty WARZONE"
       }
     ],
-    "dabber": [
+    "Boost": [
       {
         "id": 1,
-        "nom": "Neymar",
-        "piedFort": "D",
-        "nationalite": "Brazil",
-        "equipeid": 1
+        "type": "SR BOOST",
+        "prix": 20,
+        "rapidite": "Moins d'un jour",
+        "gameid": 1
       },
       {
-        "nom": "Lamoula",
-        "id": 2
+        "id": 2,
+        "type": "LEVELING",
+        "prix": 40,
+        "rapidite": "14 hours",
+        "gameid": 1
+      },
+      {
+        "id": 3,
+        "type": "PLACEMENT",
+        "prix": 10,
+        "rapidite": "Few hours",
+        "gameid": 1
       }
-    ]
+    ],
+    "Player": [
+        {
+          "id": 1,
+          "nom": "Keytix",
+          "review": 4,
+          "gameid": 1
+        },
+        {
+            "id": 1,
+            "nom": "Kaydop",
+            "review": 3,
+            "gameid": 1
+        },
+        {
+            "id": 1,
+            "nom": "IMFAYA",
+            "review": 5,
+            "gameid": 1
+        }
+      ],
+      "Client": [
+        {
+          "id": 1,
+          "nom": "Jean",
+          "prix": 40,
+          "gameid": 1,
+          "mail":"Jean@bonjour.com",
+          "password":"admin"
+        },
+        {
+            "id": 1,
+            "nom": "david",
+            "prix": 40,
+            "gameid": 1,
+            "mail":"david@bonjour.com",
+            "password":"admin"
+          }
+      ],
+      "Order": [
+          {
+            "id": 1,
+            "prix": 40,
+            "clientid": 2,
+            "gameid": 1,
+            "boosterid":3
+          },
+          {
+            "id": 1,
+            "prix": 40,
+            "clientid": 1,
+            "gameid": 1,
+            "boosterid":2
+            }
+        ]
+
   }
