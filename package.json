@@ -8,5 +8,8 @@
     "start": "node server.js"
   },
   "author": "",
+  "dependencies": {
+    "json-server": "0.16.3"
+  },
   "license": "ISC"
 }
