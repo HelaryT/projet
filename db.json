@@ -1,5 +1,5 @@
 {
-    "Game": [
+    "games": [
       {
         "id": 1,
         "Nom": "Overwatch"
@@ -9,7 +9,7 @@
         "Nom": "Call of duty WARZONE"
       }
     ],
-    "Boost": [
+    "boosts": [
       {
         "id": 1,
         "type": "SR BOOST",
@@ -32,7 +32,7 @@
         "gameid": 1
       }
     ],
-    "Player": [
+    "players": [
         {
           "id": 1,
           "nom": "Keytix",
@@ -52,7 +52,7 @@
             "gameid": 1
         }
       ],
-      "Client": [
+      "clients": [
         {
           "id": 1,
           "nom": "Jean",
@@ -70,7 +70,7 @@
             "password":"admin"
           }
       ],
-      "Order": [
+      "orders": [
           {
             "id": 1,
             "prix": 40,
