@@ -1,124 +1,446 @@
 {
-    "games": [
+    "championships": [
       {
         "id": 1,
-        "nom": "Overwatch"
-      },
-      {
-        "id": 2,
-        "nom": "WARZONE"
+        "name": "Formula 1",
+        "years":2021
       }
     ],
-    "modes": [
+    "teams": [
       {
         "id": 1,
-        "type": "SR BOOST",
-        "gameid": 1
+        "name":"Mercedes-AMG Petronas",
+        "head-chief":"Toto Wolff",
+        "head-tech" :"James Allison",
+        "base":"United Kingdom",
+        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "start-year":1970,
+        "logo":"",
+        "team-point":41,
+        "team-championships":7,
+        "championshipid":1
       },
       {
         "id": 2,
-        "type": "LEVELING",
-        "gameid": 1
+        "name":"Red Bull Racing Honda",
+        "head-chief":"Christian Horner",
+        "head-tech" :"Pierre Waché",
+        "base":"United Kingdom",
+        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "start-year":1997,
+        "logo":"",
+        "team-point":28,
+        "team-championships":4,
+        "championshipid":1
       },
       {
         "id": 3,
-        "type": "PLACEMENT",
-        "gameid": 1
+        "name":"McLaren",
+        "head-chief":"Andreas Seidl",
+        "head-tech" :"James Key",
+        "base":"United Kingdom",
+        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "start-year":1966,
+        "logo":"",
+        "team-point":18,
+        "team-championships":8,
+        "championshipid":1
       },
       {
         "id": 4,
-        "type": "TOP 1",
-        "gameid": 2
+        "name":"Scuderia Ferrari",
+        "head-chief":"Mattia Binotto",
+        "head-tech" :"Enrico Cardile",
+        "base":"Italy",
+        "flag":"",
+        "start-year":1950,
+        "logo":"",
+        "team-point":12,
+        "team-championships":16,
+        "championshipid":1
       },
       {
         "id": 5,
-        "type": "WEAPONS",
-        "gameid": 2
+        "name":"Scuderia AlphaTauri Honda",
+        "head-chief":"Franz Tost",
+        "head-tech" :"Jody Egginton",
+        "base":"Italy",
+        "flag":"",
+        "start-year":1985,
+        "logo":"",
+        "team-point":2,
+        "team-championships":0,
+        "championshipid":1
       },
       {
         "id": 6,
-        "type": "CAMO",
-        "gameid": 2
+        "name":"Aston Martin Cognizant",
+        "head-chief":"Otmar Szafnauer",
+        "head-tech" :"Andrew Green",
+        "base":"United Kingdom",
+        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "start-year":2018,
+        "logo":"",
+        "team-point":1,
+        "team-championships":0,
+        "championshipid":1
+      },
+      {
+        "id": 7,
+        "name":"Alfa Romeo Racing",
+        "head-chief":"Frédéric Vasseur",
+        "head-tech" :"Jan Monchaux",
+        "base":"Switzerland",
+        "flag":"",
+        "start-year":1993,
+        "logo":"",
+        "team-point":0,
+        "team-championships":0,
+        "championshipid":1
+      },
+      {
+        "id": 8,
+        "name":"Alpine",
+        "head-chief":"Davide Brivio",
+        "head-tech" :"Pat Fry",
+        "base":"United Kingdom",
+        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "start-year":1986,
+        "logo":"",
+        "team-point":0,
+        "team-championships":2,
+        "championshipid":1
+      },
+      {
+        "id": 9,
+        "name":"Williams Racing",
+        "head-chief":"Simon Roberts",
+        "head-tech" :"François-Xavier Demaison",
+        "base":"United Kingdom",
+        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "start-year":1978,
+        "logo":"",
+        "team-point":0,
+        "team-championships":9,
+        "championshipid":1
+      },
+      {
+        "id": 10,
+        "name":"Uralkali Haas",
+        "head-chief":"Guenther Steiner",
+        "head-tech" :"Simone Resta",
+        "base":"United States",
+        "flag":"",
+        "start-year":2016,
+        "logo":"",
+        "team-point":0,
+        "team-championships":0,
+        "championshipid":1
       }
     ],
-    "boosters": [
-        {
-          "id": 1,
-          "nom": "Keytix",
-          "mail" : "Keytix@gmail.com",
-          "password":"keytixdu59",
-          "gameid": 1
-        },
-        {
-          "id": 2,
-          "nom": "Kaydop",
-          "mail" : "Kaydop@gmail.com",
-          "password":"Kaydopdu59",
-          "gameid": 2
-        },
-        {
-          "id": 3,
-          "nom": "IMFAYA",
-          "mail" : "IMFAYA@gmail.com",
-          "password":"IMFAYAdu59",
-          "gameid": 1
-        }
-      ],
-      "clients": [
-        {
-          "id": 1,
-          "nom": "Jean",
-          "mail":"Jean@gmail.com",
-          "password":"jean"
-        },
-        {
-            "id": 1,
-            "nom": "david",
-            "mail":"david@gmail.com",
-            "password":"david"
-          }
-      ],
-      "orders": [
-          {
-            "id": 1,
-            "prix": 80,
-            "clientsid": 2,
-            "gamesid": 1,
-            "boostersid":3,
-            "modesid":1
-          },
-          {
-            "id": 2,
-            "prix": 40,
-            "clientsid": 1,
-            "gamesid": 2,
-            "boostersid":2,
-            "modesid":4
-            }
-        ],
-        "orders-games1": [
-          {
-            "id": 1,
-            "ordersid":1,
-            "plateforme":"PS4",
-            "sr-avant":"2500",
-            "sr-apres":"2700",
-            "role":"support",
-            "hero":"ana",
-            "stream":false,
-            "duo":false,
-            "server":"EUROPE"
-          }
-        ],
-        "orders-games2": [
-          {
-            "id": 1,
-            "ordersid":2,
-            "plateforme":"PS4",
-            "nb-victoire":"7",
-            "stream":false,
-            "duo":false,
-            "server":"EUROPE"
-          }
-        ]
-  }
+    "drivers": [
+      {
+        "id":1,
+        "name":"Lewis Hamilton",
+        "country":"United Kingdom",
+        "podiums":166,
+        "points":3803,
+        "gp-runned":268,
+        "world-champion":7,
+        "driver-number":44,
+        "dob":"07/01/1985",
+        "picture":"",
+        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "championshipsid":1,
+        "teamsid":1
+      },
+      {
+        "id":2,
+        "name":"Valtteri Bottas",
+        "country":"Finland",
+        "podiums":57,
+        "points":1528,
+        "gp-runned":159,
+        "world-champion":0,
+        "driver-number":77,
+        "dob":"28/08/1989",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":1
+      },
+      {
+        "id":3,
+        "name":"Max Verstappen",
+        "country":"Netherlands",
+        "podiums":43,
+        "points":1180,
+        "gp-runned":121,
+        "world-champion":0,
+        "driver-number":33,
+        "dob":"30/09/1997",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":2
+      },
+      {
+        "id":4,
+        "name":"Sergio Perez",
+        "country":"Mexico",
+        "podiums":10,
+        "points":716,
+        "gp-runned":195,
+        "world-champion":0,
+        "driver-number":11,
+        "dob":"26/01/1990",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":2
+      },
+      {
+        "id":5,
+        "name":"Daniel Ricciardo",
+        "country":"Australia",
+        "podiums":31,
+        "points":1165,
+        "gp-runned":190,
+        "world-champion":0,
+        "driver-number":3,
+        "dob":"01/07/1989",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":3
+      },
+      {
+        "id":6,
+        "name":"Lando Norris",
+        "country":"United Kingdom",
+        "podiums":1,
+        "points":158,
+        "gp-runned":40,
+        "world-champion":0,
+        "driver-number":4,
+        "dob":"13/11/1999",
+        "picture":"",
+        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "championshipsid":1,
+        "teamsid":3
+      },
+      {
+        "id":7,
+        "name":"Charles Leclerc",
+        "country":"Monaco",
+        "podiums":12,
+        "points":409,
+        "gp-runned":61,
+        "world-champion":0,
+        "driver-number":16,
+        "dob":"16/10/1997",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":4
+      },
+      {
+        "id":8,
+        "name":"Carlos Sainz",
+        "country":"Spain",
+        "podiums":2,
+        "points":376,
+        "gp-runned":121,
+        "world-champion":0,
+        "driver-number":55 ,
+        "dob":"01/09/1994",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":4
+      },
+      {
+        "id":9,
+        "name":"Pierre Gasly",
+        "country":"France",
+        "podiums":2,
+        "points":199,
+        "gp-runned":66,
+        "world-champion":0,
+        "driver-number":10 ,
+        "dob":"07/02/1996",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":5
+      },
+      {
+        "id":10,
+        "name":"Yuki Tsunoda",
+        "country":"Japan",
+        "podiums":0,
+        "points":2,
+        "gp-runned":2,
+        "world-champion":0,
+        "driver-number":22 ,
+        "dob":"11/05/2000",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":5
+      },
+      {
+        "id":11,
+        "name":"Sebastian Vettel",
+        "country":"Germany",
+        "podiums":121,
+        "points":3018,
+        "gp-runned":260,
+        "world-champion":4,
+        "driver-number":5 ,
+        "dob":"03/07/1987",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":6
+      },
+      {
+        "id":12,
+        "name":"Lance Stroll",
+        "country":"Canada",
+        "podiums":3,
+        "points":143,
+        "gp-runned":80,
+        "world-champion":0,
+        "driver-number":18 ,
+        "dob":"29/10/1998",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":6
+      },
+      {
+        "id":13,
+        "name":"Kimi Räikkönen",
+        "country":"Finland",
+        "podiums":103,
+        "points":1863,
+        "gp-runned":334,
+        "world-champion":1,
+        "driver-number":7 ,
+        "dob":"17/10/1979",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":7
+      },
+      {
+        "id":14,
+        "name":"Antonio Giovinazzi",
+        "country":"Italy",
+        "podiums":0,
+        "points":18,
+        "gp-runned":42,
+        "world-champion":0,
+        "driver-number":99 ,
+        "dob":"14/12/1993",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":7
+      },
+      {
+        "id":15,
+        "name":"Fernando Alonso",
+        "country":"Spain",
+        "podiums":97,
+        "points":1899,
+        "gp-runned":316,
+        "world-champion":2,
+        "driver-number":14 ,
+        "dob":"29/07/1981",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":8
+      },
+      {
+        "id":16,
+        "name":"Esteban Ocon",
+        "country":"",
+        "podiums":1,
+        "points":198,
+        "gp-runned":69,
+        "world-champion":0,
+        "driver-number":31 ,
+        "dob":"17/09/1996",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":8
+      },
+      {
+        "id":17,
+        "name":"George Russell",
+        "country":"United Kingdom",
+        "podiums":0,
+        "points":3,
+        "gp-runned":40,
+        "world-champion":0,
+        "driver-number":63 ,
+        "dob":"15/02/1998",
+        "picture":"",
+        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "championshipsid":1,
+        "teamsid":9
+      },
+      {
+        "id":18,
+        "name":"Nicholas Latifi",
+        "country":"Canada",
+        "podiums":0,
+        "points":0,
+        "gp-runned":19,
+        "world-champion":0,
+        "driver-number":6 ,
+        "dob":"29/06/1995",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":9
+      },
+      {
+        "id":19,
+        "name":"Mick Schumacher",
+        "country":"Germany",
+        "podiums":0,
+        "points":0,
+        "gp-runned":2,
+        "world-champion":0,
+        "driver-number":47 , 
+        "dob":"22/03/1999",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":10
+      },
+      {
+        "id":20,
+        "name":"Nikita Mazepin",
+        "country":"Russia",
+        "podiums":0,
+        "points":0,
+        "gp-runned":2,
+        "world-champion":0,
+        "driver-number":9,
+        "dob":"02/03/1999",
+        "picture":"",
+        "flag":"",
+        "championshipsid":1,
+        "teamsid":10
+      }
+  ]
+}
+      
+
+
