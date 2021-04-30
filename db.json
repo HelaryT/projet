@@ -14,7 +14,7 @@
         "headchief":"Toto Wolff",
         "headtech" :"James Allison",
         "base":"United Kingdom",
-        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "flag":"https://www.formula1.com/content/dam/fom-website/flags/United%20Kingdom.jpg.transform/2col/image.jpg",
         "team_color":"#00d2be",
         "startyear":1970,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/Mercedes/_jcr_content/logo.img.jpg/1582638425211.jpg",
@@ -29,7 +29,7 @@
         "headchief":"Christian Horner",
         "headtech" :"Pierre Waché",
         "base":"United Kingdom",
-        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "flag":"https://www.formula1.com/content/dam/fom-website/flags/United%20Kingdom.jpg.transform/2col/image.jpg",
         "team_color":"#0600ef",
         "startyear":1997,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/Red-Bull-Racing/_jcr_content/logo.img.jpg/1610719164360.jpg",
@@ -44,7 +44,7 @@
         "headchief":"Andreas Seidl",
         "headtech" :"James Key",
         "base":"United Kingdom",
-        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",        
+        "flag":"https://www.formula1.com/content/dam/fom-website/flags/United%20Kingdom.jpg.transform/2col/image.jpg",        
         "team_color":"#FF9800",
         "startyear":1966,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/McLaren/_jcr_content/logo.img.jpg/1515152760829.jpg",
@@ -89,7 +89,7 @@
         "headchief":"Otmar Szafnauer",
         "headtech" :"Andrew Green",
         "base":"United Kingdom",
-        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "flag":"https://www.formula1.com/content/dam/fom-website/flags/United%20Kingdom.jpg.transform/2col/image.jpg",
         "team_color":"#006f62",
         "startyear":2018,
         "logo":"https://th.bing.com/th/id/Ra083ba7e2fd23f0f64a3551e280aabce?rik=T9p5x99tH5dfpA&riu=http%3a%2f%2fwww.carlogos.org%2flogo%2fAston-Martin-logo-2003-6000x3000.png&ehk=YFi8Bu7i2WI7R%2bYQd3gmxG%2fHh6kzHzpqM1z8KVzLVmw%3d&risl=&pid=ImgRaw",
@@ -119,12 +119,12 @@
         "headchief":"Davide Brivio",
         "headtech" :"Pat Fry",
         "base":"United Kingdom",
-        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "flag":"https://www.formula1.com/content/dam/fom-website/flags/France.jpg.transform/2col/image.jpg",
         "team_color":"#0090ff",
         "startyear":1986,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/Alpine/_jcr_content/logo.img.jpg/1611246834255.jpg",
-        "car":"",
-        "teampoint":0,
+        "car":"https://res.cloudinary.com/prod-f2f3/c_fill,dpr_1.0,f_auto,g_auto,w_1000/v1/f3/global/cars/2021/18MP_021F3_1k-00T",
+        "teampoint":0,  
         "teamchampionships":2,
         "championshipid":1
       },
@@ -134,7 +134,7 @@
         "headchief":"Simon Roberts",
         "headtech" :"François-Xavier Demaison",
         "base":"United Kingdom",
-        "flag":"https://preview.redd.it/huk2w98m83s31.png?width=960&crop=smart&auto=webp&s=ad48bfe957b1f71a018e12ccbea6517d8c300008",
+        "flag":"https://www.formula1.com/content/dam/fom-website/flags/United%20Kingdom.jpg.transform/2col/image.jpg",
         "team_color":"#005aff",
         "startyear":1978,
         "logo":"https://www.formula1.com/content/fom-website/en/teams/Williams/_jcr_content/logo.img.jpg/1590743731407.jpg",
@@ -174,11 +174,12 @@
         "champion":7,
         "drivernb":44,
         "dob":"07/01/1985",
-        "picture":"https://www.f1-fansite.com/wp-content/uploads/2020/03/Leiws-Hamilton-2020.png",
+        "picture":"https://e0.365dm.com/f1/drivers/h_full_809.png",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/2col/image.png",
         "team_name":"Mercedes-AMG Petronas",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/United%20Kingdom.jpg.transform/2col/image.jpg",
-        "teamsid":1
+        "teamsid":1,
+        "championshipid":1
       },
       {
         "id":2,
@@ -194,11 +195,12 @@
         "champion":0,
         "drivernb":77,
         "dob":"28/08/1989",
-        "picture":"https://www.f1-fansite.com/wp-content/uploads/2020/03/Valtteri-Bottas-2020.png",
+        "picture":"https://th.bing.com/th/id/Re5ddc5e9ea94ed72e993dc80bfebf8d5?rik=HeOKV16docweJg&riu=http%3a%2f%2fe0.365dm.com%2ff1%2fdrivers%2fh_full_1413.png&ehk=p%2bQAJoHwfT%2bZGxW3Ay%2btPr%2fWB1Vc%2fT%2fxDqDlUjBC2s4%3d&risl=&pid=ImgRaw",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/2col/image.png",
         "team_name":"Mercedes-AMG Petronas",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Finland.jpg.transform/2col/image.jpg",
-        "teamsid":1
+        "teamsid":1,
+        "championshipid":1
       },
       {
         "id":3,
@@ -214,11 +216,12 @@
         "champion":0,
         "drivernb":33,
         "dob":"30/09/1997",
-        "picture":"",
+        "picture":"https://th.bing.com/th/id/Re8c83ff0e3fef407d236d4db3f2777b4?rik=fi3pTaeMGP20Iw&pid=ImgRaw",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/2col/image.png",
         "team_name":"Red Bull Racing",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Netherlands.jpg.transform/2col/image.jpg",
-        "teamsid":2
+        "teamsid":2,
+        "championshipid":1
       },
       {
         "id":4,
@@ -234,11 +237,12 @@
         "champion":0,
         "drivernb":11,
         "dob":"26/01/1990",
-        "picture":"",
+        "picture":"https://th.bing.com/th/id/Rbc10a74a5813798752401b121fc5a63a?rik=1Y7ssDnpnik%2bRw&riu=http%3a%2f%2fe1.365dm.com%2ff1%2fdrivers%2fh_full_902.png&ehk=XVT%2bbDQLiK9lclahWVcxwX5F2CE0ea5ZKp4vYzlcXsw%3d&risl=&pid=ImgRaw",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/2col/image.png",
         "team_name":"Red Bull Racing",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Mexico.jpg.transform/2col/image.jpg",
-        "teamsid":2
+        "teamsid":2,
+        "championshipid":1
       },
       {
         "id":5,
@@ -254,11 +258,12 @@
         "champion":0,
         "drivernb":3,
         "dob":"01/07/1989",
-        "picture":"",
+        "picture":"https://e1.365dm.com/f1/drivers/h_full_1395.png",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/2col/image.png",
         "team_name":"McLaren F1",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Australia.jpg.transform/2col/image.jpg",
-        "teamsid":3
+        "teamsid":3,
+        "championshipid":1
       },
       {
         "id":6,
@@ -274,11 +279,12 @@
         "champion":0,
         "drivernb":4,
         "dob":"13/11/1999",
-        "picture":"",
+        "picture":"https://th.bing.com/th/id/Rb3f22b4c39ceadb9627a139b474cecd4?rik=gmClSe2ekKJFrQ&pid=ImgRaw",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/2col/image.png",
         "team_name":"McLaren F1",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/United%20Kingdom.jpg.transform/2col/image.jpg",         
-        "teamsid":3
+        "teamsid":3,
+        "championshipid":1
       },
       {
         "id":7,
@@ -294,11 +300,12 @@
         "champion":0,
         "drivernb":16,
         "dob":"16/10/1997",
-        "picture":"",
+        "picture":"https://th.bing.com/th/id/R79bac71f62fd935a0cbd191a89e8262c?rik=%2bxsPEzZ%2b6MgPhA&pid=ImgRaw",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/2col/image.png",
         "team_name":"Scuderia Ferrari",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Monaco.jpg.transform/2col/image.jpg",         
-        "teamsid":4
+        "teamsid":4,
+        "championshipid":1
       },
       {
         "id":8,
@@ -314,11 +321,12 @@
         "champion":0,
         "drivernb":55 ,
         "dob":"01/09/1994",
-        "picture":"",
+        "picture":"https://e1.365dm.com/f1/drivers/h_full_1475.png",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/2col/image.png",
         "team_name":"Scuderia Ferrari",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Spain.jpg.transform/2col/image.jpg",        
-        "teamsid":4
+        "teamsid":4,
+        "championshipid":1
       },
       {
         "id":9,
@@ -334,11 +342,12 @@
         "champion":0,
         "drivernb":10 ,
         "dob":"07/02/1996",
-        "picture":"",
+        "picture":"https://th.bing.com/th/id/R1f7fae12c92be7f49134e33ae1535b1a?rik=%2bPCtvuFzajoR2Q&riu=http%3a%2f%2fe0.365dm.com%2ff1%2fdrivers%2fh_full_1483.png&ehk=iKhsi0FQDnafKHhIn2I%2fNA9%2fAcVeK2BpGxNYC29T%2fF8%3d&risl=&pid=ImgRaw",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/2col/image.png",
         "team_name":"Scuderia AlphaTauri",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/France.jpg.transform/2col/image.jpg",         
-        "teamsid":5
+        "teamsid":5,
+        "championshipid":1
       },
       {
         "id":10,
@@ -354,11 +363,12 @@
         "champion":0,
         "drivernb":22 ,
         "dob":"11/05/2000",
-        "picture":"",
+        "picture":"https://e2.365dm.com/f1/drivers/h_full_1520.png",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png.transform/2col/image.png",
         "team_name":"Scuderia AlphaTauri",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Japan.jpg.transform/2col/image.jpg",        
-        "teamsid":5
+        "teamsid":5,
+        "championshipid":1
       },
       {
         "id":11,
@@ -374,11 +384,12 @@
         "age":33,
         "drivernb":5 ,
         "dob":"03/07/1987",
-        "picture":"",
+        "picture":"https://e2.365dm.com/f1/drivers/h_full_812.png",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/2col/image.png",
         "team_name":"Aston Martin Cognizant",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Germany.jpg.transform/2col/image.jpg",        
-        "teamsid":6
+        "teamsid":6,
+        "championshipid":1
       },
       {
         "id":12,
@@ -394,11 +405,12 @@
         "age":22,
         "drivernb":18 ,
         "dob":"29/10/1998",
-        "picture":"",
+        "picture":"https://th.bing.com/th/id/Reef3732d05ace74800685b54b75f256b?rik=L0ZvC42Vx7csFg&pid=ImgRaw",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/2col/image.png",
         "team_name":"Aston Martin Cognizant",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Canada.jpg.transform/2col/image.jpg",
-        "teamsid":6
+        "teamsid":6,
+        "championshipid":1
       },
       {
         "id":13,
@@ -414,11 +426,12 @@
         "join_f1":2001,
         "drivernb":7 ,
         "dob":"17/10/1979",
-        "picture":"",
+        "picture":"https://th.bing.com/th/id/R8ede0ffe57b95a78e6519a4584c4d6df?rik=Fy%2fIajpasOzNpg&riu=http%3a%2f%2fe1.365dm.com%2ff1%2fdrivers%2fh_full_18.png&ehk=GL0eYi%2b3slECGP1gX5SGy%2bY2fZfp2PDHs4Lp80wuBK4%3d&risl=&pid=ImgRaw",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/2col/image.png",
         "team_name":"Alfa Romeo Racing ORLEN",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Finland.jpg.transform/2col/image.jpg",         
-        "teamsid":7
+        "teamsid":7,
+        "championshipid":1
       },
       {
         "id":14,
@@ -434,11 +447,12 @@
         "join_f1":2017,
         "drivernb":99 ,
         "dob":"14/12/1993",
-        "picture":"",
+        "picture":"https://e2.365dm.com/f1/drivers/h_full_1493.png",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/2col/image.png",
         "team_name":"Alfa Romeo Racing ORLEN",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Italy.jpg.transform/2col/image.jpg",         
-        "teamsid":7
+        "teamsid":7,
+        "championshipid":1
       },
       {
         "id":15,
@@ -454,11 +468,12 @@
         "join_f1":2002,
         "drivernb":14 ,
         "dob":"29/07/1981",
-        "picture":"",
+        "picture":"https://th.bing.com/th/id/R22c9b99db24399544f20df49d6a18f21?rik=04pKHiO67trJ2g&riu=http%3a%2f%2fe0.365dm.com%2ff1%2fdrivers%2fh_full_6.png&ehk=dPlOVcluT3v70S35XoHVAsqMSWBfGuryxYtBElFs%2b%2bI%3d&risl=&pid=ImgRaw",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png.transform/2col/image.png",
         "team_name":"Alpine F1",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Spain.jpg.transform/2col/image.jpg",         
-        "teamsid":8
+        "teamsid":8,
+        "championshipid":1
       },
       {
         "id":16,
@@ -474,11 +489,12 @@
         "champion":0,
         "drivernb":31 ,
         "dob":"17/09/1996",
-        "picture":"https://www.f1-fansite.com/wp-content/uploads/2021/03/Esteban-Ocon-2021.png",
+        "picture":"https://e2.365dm.com/f1/drivers/h_full_1471.png",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/2col/image.png",
         "team_name":"Alpine F1",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/France.jpg.transform/2col/image.jpg",         
-        "teamsid":8
+        "teamsid":8,
+        "championshipid":1
       },
       {
         "id":17,
@@ -494,11 +510,12 @@
         "champion":0,
         "drivernb":63 ,
         "dob":"15/02/1998",
-        "picture":"",
+        "picture":"https://e1.365dm.com/f1/drivers/h_full_1496.png",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/2col/image.png",
         "team_name":"Williams Racing",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/United%20Kingdom.jpg.transform/2col/image.jpg",        
-        "teamsid":9
+        "teamsid":9,
+        "championshipid":1
       },
       {
         "id":18,
@@ -514,11 +531,12 @@
         "champion":0,
         "drivernb":6 ,
         "dob":"29/06/1995",
-        "picture":"",
+        "picture":"https://th.bing.com/th/id/R7c0d1f3e038fa7bc30deedc4b1bdde00?rik=jm2XU8%2fWG0v87A&pid=ImgRaw",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/2col/image.png",
         "team_name":"Williams Racing",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Canada.jpg.transform/2col/image.jpg",         
-        "teamsid":9
+        "teamsid":9,
+        "championshipid":1
       },
       {
         "id":19,
@@ -533,13 +551,13 @@
         "champion":0,
         "drivernb":47 , 
         "dob":"22/03/1999",
-        "picture":"",
+        "picture":"https://www.f1news.fr/wp-content/uploads/2021/03/Msc.png",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/M/MICSCH02_Mick_Schumacher/micsch02.png.transform/2col/image.png",
         "team_name":"Uralkali Haas F1",
         "team_color":"#000000",
         "flag":"https://www.formula1.com/content/dam/fom-website/flags/Germany.jpg.transform/2col/image.jpg",         
-        "teamsid":10
-        
+        "teamsid":10,
+        "championshipid":1    
       },
       {
         "id":20,
@@ -554,11 +572,12 @@
         "champion":0,
         "drivernb":9,
         "dob":"02/03/1999",
-        "picture":"",
+        "picture":"https://www.f1news.fr/wp-content/uploads/2021/03/Maz.png",
         "profile":"https://www.formula1.com/content/dam/fom-website/drivers/N/NIKMAZ01_Nikita_Mazepin/nikmaz01.png.transform/2col/image.png",
         "team_color":"#000000",
         "flag":"https://res.cloudinary.com/prod-f2f3/c_fill,dpr_1.0,f_auto,g_auto,w_100/v1/f2/global/flags/RU",        
         "teamsid":10,
+        "championshipid":1,
         "team_name":"Uralkali Haas F1"
       }
   ]
